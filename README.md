@@ -19,7 +19,7 @@ and use data about you. We are not responsible for any of the data collected by 
 party.
 ### COLLECTION OF YOUR INFORMATION
 We do not collect or store any personal data.
-###CONTACT US
+### CONTACT US
 If you have questions or comments about this Privacy Policy, please contact us at:
 Alberto Purpura
 me@albertopurpura.com
